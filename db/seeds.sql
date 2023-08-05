@@ -11,8 +11,8 @@ INSERT INTO role (title, salary, department_id) VALUES ("Vice President", 250000
 INSERT INTO role (title, salary, department_id) VALUES ("CEO", 350000.00, 1);
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES ("Lainey", "Creighton", 6, NULL);
-INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES ("Ashley", "Huskey", 5, 6);
-INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES ("Salmon", "Creighton", 4, 5);
-INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES ("Tilapia", "Creighton", 3, 4);
-INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES ("Amora", "Huskey", 2, 3);
-INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES ("Lyla", "Aldridge", 1, 2);
+INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES ("Ashley", "Huskey", 5, 1);
+INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES ("Salmon", "Creighton", 4, 2);
+INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES ("Tilapia", "Creighton", 3, 3);
+INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES ("Amora", "Huskey", 2, 4);
+INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES ("Lyla", "Aldridge", 1, 5);

@@ -9,7 +9,7 @@ The Employee Tracker is a simple web application that allows you to manage and t
 
 ## Tutorial
 
-[![Employee Tracker](https://drive.google.com/file/d/1YOHVMwxNe3dYNOkM8kbE5Q1LjKINzyOp/view?usp=sharing)](https://drive.google.com/file/d/1YOHVMwxNe3dYNOkM8kbE5Q1LjKINzyOp/view?usp=sharing)
+<video width="560" height="315" src="./video/employee-tracker.mp4"></video>
 
 <br>
 
